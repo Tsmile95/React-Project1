@@ -1,4 +1,4 @@
-gitimport navBrand from "../assets/WhatsApp Image 2023-06-18 at 16.32.11.jpg"
+import navBrand from "../assets/WhatsApp Image 2023-06-18 at 16.32.11.jpg"
 import elipsLogo from "../assets/Ellipse 1.svg"
 import "../styles/Navbar.css"
 
